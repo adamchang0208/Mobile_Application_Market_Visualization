@@ -2,8 +2,8 @@
 Global mobile application market overview with visualization using ggplot in R
 
 
->   The mobile application market seems to be a very potentially lucrative one. You asked us to develop a plan to enter mobile application market. To do this, we must help you to understand the market with insights derived by investigating the data available on the market.
->   Identifying what makes a “successful” mobile application is problematic. We have a limited set of attributes from which to derive insights. As of now, you haven’t constrained us with limitations as to any characteristic of the app you want to develop.
+  + The mobile application market seems to be a very potentially lucrative one. You asked us to develop a plan to enter mobile application market. To do this, we must help you to understand the market with insights derived by investigating the data available on the market.
+  + Identifying what makes a “successful” mobile application is problematic. We have a limited set of attributes from which to derive insights. As of now, you haven’t constrained us with limitations as to any characteristic of the app you want to develop.
   After careful analysis of the data, we recommend that you focus on developing a single free app, targeted to the Google Play Store for smartphone users in the US, that is low in system resource requirements.
   The majority of developers have one app in the market. We believe that launching one app will make the allocation of your resources more efficient and require less effort on the development and maintenance of the app.
   Free apps make up 40.8% of the overall app market across all regions, device types, and operating systems, whereas  grossing apps (those categorized as continuing to generate revenue) and paid apps (those that have a one time purchase fee) are 29.9% and 29.3% respectively. However, the average rating count for free apps is 2.7 times higher than grossing apps and almost 14 times higher than that of paid apps. This suggests that there is greater customer interaction with free apps which can provide better feedback and more word of mouth recommendations.
