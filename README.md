@@ -1,7 +1,7 @@
 # Mobile_Application_Market_Visualization
 Global mobile application market overview with visualization using ggplot in R
 
-
+## Overview and Summary
 The mobile application market seems to be a very potentially lucrative one. You asked us to develop a plan to enter mobile application market. To do this, we must help you to understand the market with insights derived by investigating the data available on the market.
   
   
@@ -39,10 +39,10 @@ We have identified the United States as a better choice over China based on the 
 
 
 #### Risks:
-• Android apps have to cater to a wider variety of devices as compared to iOS which could lead to higher development costs and more development barriers to make the APP more compatible.
-• Free apps are observed to have shorter average age than grossing or paid apps which may suggest that free apps have shorter updating cycle, incurring greater development costs.
-• The difference in approval criteria in terms of cost and inspection rules between Android and iOS should also be taken into consideration. 
-• According to our analysis, games and social media apps take up the majority of market share, make it competitive to enter for novice developers. More data related to various category characteristic, such as user profile, financial performance, development learning curve and update cycle,  needs to be examined to generate convincing category recommandations.
+- Android apps have to cater to a wider variety of devices as compared to iOS which could lead to higher development costs and more development barriers to make the APP more compatible.
+- Free apps are observed to have shorter average age than grossing or paid apps which may suggest that free apps have shorter updating cycle, incurring greater development costs.
+- The difference in approval criteria in terms of cost and inspection rules between Android and iOS should also be taken into consideration. 
+- According to our analysis, games and social media apps take up the majority of market share, make it competitive to enter for novice developers. More data related to various category characteristic, such as user profile, financial performance, development learning curve and update cycle,  needs to be examined to generate convincing category recommandations.
 
 
 
