@@ -2,7 +2,7 @@
 Global mobile application market overview with visualization using ggplot in R
 
 
-  The mobile application market seems to be a very potentially lucrative one. You asked us to develop a plan to enter mobile application market. To do this, we must help you to understand the market with insights derived by investigating the data available on the market.
+>  The mobile application market seems to be a very potentially lucrative one. You asked us to develop a plan to enter mobile application market. To do this, we must help you to understand the market with insights derived by investigating the data available on the market.
   Identifying what makes a “successful” mobile application is problematic. We have a limited set of attributes from which to derive insights. As of now, you haven’t constrained us with limitations as to any characteristic of the app you want to develop.
   After careful analysis of the data, we recommend that you focus on developing a single free app, targeted to the Google Play Store for smartphone users in the US, that is low in system resource requirements.
   The majority of developers have one app in the market. We believe that launching one app will make the allocation of your resources more efficient and require less effort on the development and maintenance of the app.
