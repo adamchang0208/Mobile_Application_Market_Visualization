@@ -21,3 +21,28 @@ We have identified the Google Play Store as a better opportunity for entry over 
 
 
 We have identified the United States as a better choice over China based on the average count of app ratings per app. We believe that a higher count of ratings is indicative of better customer interaction with the product. A higher number of ratings also aids adoption as people are more likely to try something they know is popular. Overall, there are more apps in the Chinese Market (57.8%) than in the US (42.2%), but the average rating count per app is 2.7 times higher in the US.
+
+
+## Assumptions and Limitations:
+#### Assumptions:
+- We have assumed that file size equates to development complexity
+- We have assumed that the count of rating is an indicator for customer engagement
+- We have assumed Rating Count as the measurement of success
+- We have ignored/removed data related to Amazon as it is not comprehensive enough because of very less data points (<1% of total data) and could even possibly skew the results
+- We have filtered data for the final crawl date (Jan 15, 2013) to proceed with the analysis. Since we are not comparing the performance of the same apps over a period of time and just rather understanding how the overall app market is performing
+
+
+#### Limitations:
+- In the data cleaning process, we substitute all anomalies which equals 50 in average rating column with 5 as the rating system was assumed to scale from 0 to 5. This approach can be proved imprudent as the probability for all users rating at 5 is extremely low. Using the mean value by category level to replace error data would be more appropriate.
+- Our recommendations are provided by analyzing intuitive correlation or comparative relationships between variables. Statistical modeling is definitely required to verify if there are causality between independent variables to dependent variable to improve the persuasion of our recommendation.
+- Even if we have performed statistical analysis on the causality, our recommendations can still be impaired by the potential correlations between independent variables. Further examination on the correlation within columns and field research could help to validate our recommendations.
+
+
+#### Risks:
+• Android apps have to cater to a wider variety of devices as compared to iOS which could lead to higher development costs and more development barriers to make the APP more compatible.
+• Free apps are observed to have shorter average age than grossing or paid apps which may suggest that free apps have shorter updating cycle, incurring greater development costs.
+• The difference in approval criteria in terms of cost and inspection rules between Android and iOS should also be taken into consideration. 
+• According to our analysis, games and social media apps take up the majority of market share, make it competitive to enter for novice developers. More data related to various category characteristic, such as user profile, financial performance, development learning curve and update cycle,  needs to be examined to generate convincing category recommandations.
+
+
+
